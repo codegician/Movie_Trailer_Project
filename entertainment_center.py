@@ -44,5 +44,7 @@ captain_underpants = media.Movie("Captain Underpants",
 
 movies = [wonder_woman, pirates, the_mummy, baywatch, alien_covenant, get_out, guardians, captain_underpants]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+#print(media.Movie.VALID_RATINGS)
+#print(media.Movie.__name__)
 
